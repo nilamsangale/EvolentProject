@@ -1,0 +1,5 @@
+Please use below instuctions to Run WEB API project.
+
+1. Run DB script on SQL server to create required database and table.
+2. Open the WEBAPIDemo project into visual studio and run it.
+3. Use postman to test the API.
